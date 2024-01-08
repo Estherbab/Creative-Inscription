@@ -7,14 +7,7 @@ Implementing webpage accessibility so that my website is user friendly for peopl
 
 This challenge is an on-the-job ticket challenege with starter code that I have modified(refractored). The main thing I will be doing is improving the webpage to make sure it is user friendly and accessible for people with disabilities, which also improves the websites search engine optimization. 
 
-# Deployment link here: 
-
-
-
-
-<img width="514" alt="Screenshot 2024-01-08 at 13 59 29" src="https://github.com/Estherbab/Webpage-Inscription/assets/153003348/8df34ec0-c8a1-4acd-bf09-379f2a19f105">
-
-
+# Deployment link here:
 [
 ](https://estherbab.github.io/Webpage-Inscription/)
 
